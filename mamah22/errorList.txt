@@ -1,0 +1,17 @@
+Undefined matrix name
+Undefined matrix name
+Undefined command name
+Undefined command name
+
+Argument is not a real number
+Extraneous text after end of command
+Missing argument
+Missing argument
+
+Extraneous text after end of command
+Illegal comma
+Missing comma
+
+Multiple consecutive commas
+Argument is not a scalar
+Extraneous text after end of command

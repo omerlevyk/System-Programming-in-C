@@ -1,0 +1,14 @@
+read_mat MAT_G, 3.2, 8
+read_mat mat_a, 3.2, -5.3
+do_it MAT_A, MAT_B, MAT_C
+Add_Mat MAT_A, MAT_B, MAT_C
+read_mat MAT_A, abc, 567
+read_mat MAT_A, 3, -4.2, 6,
+read_mat MAT_A
+mul_mat MAT_B, MAT_C
+trans_mat MAT_B, MAT_C, MAT_D
+print_mat, MAT_A
+trans_mat MAT_A  MAT_B
+sub_mat MAT_A, , MAT_B, MAT_C
+mul_scalar MAT_A, MAT_B, MAT_C
+stop now
